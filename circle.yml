@@ -1,8 +1,8 @@
 machine:
   environment:
-    PROJECT_NAME: circle-ctl-test
+    PROJECT_NAME: deft-apparatus-137723
     CLUSTER_NAME: docker-hello-google-cluster
-    CLOUDSDK_COMPUTE_ZONE: us-central1-f
+    CLOUDSDK_COMPUTE_ZONE: us-central1-b
     DEBIAN_FRONTEND: noninteractive
   services:
     - docker
